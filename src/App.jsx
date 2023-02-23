@@ -616,7 +616,7 @@ const initData = [
 ]
 
 var colors = [];
-
+ 
 let i = 0;
 var letters = "0123456789ABCDEF";
 
